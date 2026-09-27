@@ -1,0 +1,8 @@
+{
+  "name": "CareerInsight AI",
+  "description": "Evidence-based career intelligence platform comparing resumes with job descriptions to identify demonstrated skills, gaps, interview preparation, and learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
