@@ -2,10 +2,6 @@
 
 > **AI-powered evidence-based career intelligence platform that maps resumes to job descriptions with explainable skill gap analysis and interview roadmaps.**
 
-## 🌐 Live Application
-
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=google-cloud)](https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app)
-
 🔗 **Direct Live Link:** [https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app](https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app)
 
 
