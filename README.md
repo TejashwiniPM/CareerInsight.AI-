@@ -2,6 +2,10 @@
 
 > **AI-powered evidence-based career intelligence platform that maps resumes to job descriptions with explainable skill gap analysis and interview roadmaps.**
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=google-cloud)](https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app)
+
+🔗 **Live Demo:** [https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app](https://ais-pre-na6zyzocdqdx4kxd5wenpy-484792846399.asia-southeast1.run.app)
+
 CareerInsight AI is an explainable career intelligence platform designed to replace opaque ATS keyword scores with verified evidence mapping. It analyzes candidate resumes against target job descriptions to categorize competencies into strong, partial, and unobserved matches, while generating targeted interview questions and actionable learning roadmaps.
 
 ---
